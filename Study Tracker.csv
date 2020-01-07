@@ -1,4 +1,16 @@
-Subject,Date,Topic,Number of hours,Total hours
-Linear Algebra,01/01/20,Linear Systems(I),0,0
-,02/01/20,Linear Systems(I),0.5,0.5
-,03/01/20,Linear Systems(I),1,1.5
+Subject,Date,Day,Topic,Number of hours,Total hours
+Linear Algebra,01/01/20,Wednesday,Linear Systems(I),0,0
+,02/01/20,Thursday,Linear Systems(I),0.5,0.5
+,03/01/20,Friday,Linear Systems(I),1,1.5
+,03/01/21,Saturday,0,0,1.5
+,03/01/22,Sunday,0,0,1.5
+,03/01/23,Monday,0,0,1.5
+,03/01/24,Tuesday,,,
+,03/01/25,Wednesday,,,
+,03/01/26,Thursday,,,
+,03/01/27,Friday,,,
+,03/01/28,Saturday,,,
+,03/01/29,Sunday,,,
+,03/01/30,Monday,,,
+,03/01/31,Tuesday,,,
+,03/01/32,Wednesday,,,
